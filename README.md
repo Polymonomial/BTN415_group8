@@ -58,6 +58,6 @@ tests/      — unit & integration tests
 docs/       — report template
 
 ## Team Members
-- Member 1: Brendan Chang 105403182
+- Member 1: Brendan Chang
 - Member 2: Idriss Lufungula
 - Member 3: Naoko Marin
